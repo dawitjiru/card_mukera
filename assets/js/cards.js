@@ -6,7 +6,7 @@
  * they are realted to the the card management.
  * 
  * @author Practical IT
- * @author [Add your name here]
+ * @author [Dawit Jiru]
  */
  let cards = {
   wallia: {
